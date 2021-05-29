@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "questscrolls",
+    "name": "Questscrolls",
+    "description": "injection point type '%s'",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "m1zark"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
